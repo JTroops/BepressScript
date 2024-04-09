@@ -1,7 +1,0 @@
-setup.py
-bepresspkg/__init__.py
-bepresspkg/bepress.py
-bepresspkg.egg-info/PKG-INFO
-bepresspkg.egg-info/SOURCES.txt
-bepresspkg.egg-info/dependency_links.txt
-bepresspkg.egg-info/top_level.txt
