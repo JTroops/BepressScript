@@ -8,7 +8,7 @@ def bepress(type, pubYear):
     url = 'https://content-out.bepress.com/v2/epublications.marquette.edu/query?document_type="' + type + '"&publication_year=' + pubYear + '&limit=' + limit
 
     headers = {
-        'Access-Control-Allow-Origin':"*",
+        'Access-Control-Allow-Origin':'*',
         'Authorization': 'EOFeFwNE1ZtlGZXMHETLNqBIu2jrXYSTlaq8jXmem3M='
     }
 
